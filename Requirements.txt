@@ -1,0 +1,2 @@
+Libraries used: requests, json, _datetime
+--Install these libraries from your python application, and you're good to go 
